@@ -1,0 +1,141 @@
+2017-03-03 08:39:15,444  - JzTestRunner.py : INFO  The testcase number is : 2
+2017-03-03 08:39:15,444  - JzTestRunner.py : INFO  The testcase name is : __init__.py
+2017-03-03 08:39:15,444  - JzTestRunner.py : INFO  The testcase name is : µÇÂ¼²âÊÔ.py
+2017-03-03 08:39:15,519  - µÇÂ¼²âÊÔ.py : WARNING  
+2017-03-03 08:39:15,519  - µÇÂ¼²âÊÔ.py : INFO  Begin time : 2017-03-03  08:39:15  Friday
+2017-03-03 08:39:23,532  - µÇÂ¼²âÊÔ.py : INFO  Opening browser 'Firefox' to base url : http://192.168.1.206
+2017-03-03 08:39:24,151  - µÇÂ¼²âÊÔ.py : INFO  Current Operation : Login Test Error Empty with password
+2017-03-03 08:39:28,700  - µÇÂ¼²âÊÔ.py : INFO  username : 'iis' password : '' ÓÃ»§Ãû»òÃÜÂë²»ÄÜÎª¿Õ 
+2017-03-03 08:39:28,700  - µÇÂ¼²âÊÔ.py : INFO  testErrorEmpty Test OK
+2017-03-03 08:39:29,328  - µÇÂ¼²âÊÔ.py : INFO  End time : 2017-03-03  08:39:29  Friday 
+2017-03-03 08:39:29,328  - µÇÂ¼²âÊÔ.py : WARNING  ######################################################################
+2017-03-03 08:39:29,328  - µÇÂ¼²âÊÔ.py : WARNING  
+2017-03-03 08:39:29,328  - µÇÂ¼²âÊÔ.py : INFO  Begin time : 2017-03-03  08:39:29  Friday
+2017-03-03 08:39:37,917  - µÇÂ¼²âÊÔ.py : INFO  Opening browser 'Firefox' to base url : http://192.168.1.206
+2017-03-03 08:39:38,828  - µÇÂ¼²âÊÔ.py : INFO  Current Operation : Login Test Error Empty with username
+2017-03-03 08:39:43,184  - µÇÂ¼²âÊÔ.py : INFO  username : '' password : 'iis' ÓÃ»§Ãû»òÃÜÂë²»ÄÜÎª¿Õ 
+2017-03-03 08:39:43,186  - µÇÂ¼²âÊÔ.py : INFO  testErrorEmpty Test OK
+2017-03-03 08:39:43,782  - µÇÂ¼²âÊÔ.py : INFO  End time : 2017-03-03  08:39:43  Friday 
+2017-03-03 08:39:43,782  - µÇÂ¼²âÊÔ.py : WARNING  ######################################################################
+2017-03-03 08:39:43,782  - µÇÂ¼²âÊÔ.py : WARNING  
+2017-03-03 08:39:43,782  - µÇÂ¼²âÊÔ.py : INFO  Begin time : 2017-03-03  08:39:43  Friday
+2017-03-03 08:39:51,657  - µÇÂ¼²âÊÔ.py : INFO  Opening browser 'Firefox' to base url : http://192.168.1.206
+2017-03-03 08:39:52,292  - µÇÂ¼²âÊÔ.py : INFO  Current Operation : Login Test Error False
+2017-03-03 08:39:56,401  - µÇÂ¼²âÊÔ.py : INFO  username : 'Rfid' password : 'iis' ÓÃ»§Ãû»òÕßÃÜÂë´íÎó£¬ÇëÖØĞÂÊäÈë£¡ 
+2017-03-03 08:39:56,401  - µÇÂ¼²âÊÔ.py : INFO  testErrorFalse Test OK
+2017-03-03 08:39:59,671  - µÇÂ¼²âÊÔ.py : INFO  username : '123' password : '456' ÓÃ»§Ãû»òÕßÃÜÂë´íÎó£¬ÇëÖØĞÂÊäÈë£¡ 
+2017-03-03 08:39:59,671  - µÇÂ¼²âÊÔ.py : INFO  testErrorFalse Test OK
+2017-03-03 08:40:02,973  - µÇÂ¼²âÊÔ.py : INFO  username : 'rfid' password : 'Iis' ÓÃ»§Ãû»òÕßÃÜÂë´íÎó£¬ÇëÖØĞÂÊäÈë£¡ 
+2017-03-03 08:40:02,973  - µÇÂ¼²âÊÔ.py : INFO  testErrorFalse Test OK
+2017-03-03 08:40:06,217  - µÇÂ¼²âÊÔ.py : INFO  username : '²âÊÔ' password : 'iis' ÓÃ»§Ãû»òÕßÃÜÂë´íÎó£¬ÇëÖØĞÂÊäÈë£¡ 
+2017-03-03 08:40:06,219  - µÇÂ¼²âÊÔ.py : INFO  testErrorFalse Test OK
+2017-03-03 08:40:06,882  - µÇÂ¼²âÊÔ.py : INFO  End time : 2017-03-03  08:40:06  Friday 
+2017-03-03 08:40:06,882  - µÇÂ¼²âÊÔ.py : WARNING  ######################################################################
+2017-03-03 08:40:06,884  - µÇÂ¼²âÊÔ.py : WARNING  
+2017-03-03 08:40:06,884  - µÇÂ¼²âÊÔ.py : INFO  Begin time : 2017-03-03  08:40:06  Friday
+2017-03-03 08:40:14,357  - µÇÂ¼²âÊÔ.py : INFO  Opening browser 'Firefox' to base url : http://192.168.1.206
+2017-03-03 08:40:15,086  - µÇÂ¼²âÊÔ.py : INFO  Current Operation : Login Test Right Normal
+2017-03-03 08:40:19,085  - µÇÂ¼²âÊÔ.py : INFO  username : 'rfid' password : 'iis' 
+2017-03-03 08:40:19,105  - µÇÂ¼²âÊÔ.py : INFO  testNormalLogin Test OK
+2017-03-03 08:40:19,753  - µÇÂ¼²âÊÔ.py : INFO  End time : 2017-03-03  08:40:19  Friday
+2017-03-03 08:40:19,753  - µÇÂ¼²âÊÔ.py : WARNING  ######################################################################
+2017-03-03 08:40:19,755  - µÇÂ¼²âÊÔ.py : WARNING  
+2017-03-03 08:40:19,755  - µÇÂ¼²âÊÔ.py : INFO  Begin time : 2017-03-03  08:40:19  Friday
+2017-03-03 08:40:27,305  - µÇÂ¼²âÊÔ.py : INFO  Opening browser 'Firefox' to base url : http://192.168.1.206
+2017-03-03 08:40:27,801  - µÇÂ¼²âÊÔ.py : INFO  Current Operation : Login Test Right Super
+2017-03-03 08:40:32,078  - µÇÂ¼²âÊÔ.py : INFO  username : 'superrfid' password : 'debugiis' 
+2017-03-03 08:40:32,094  - µÇÂ¼²âÊÔ.py : INFO  testSuperLogin Test OK
+2017-03-03 08:40:32,680  - µÇÂ¼²âÊÔ.py : INFO  End time : 2017-03-03  08:40:32  Friday
+2017-03-03 08:40:32,680  - µÇÂ¼²âÊÔ.py : WARNING  ######################################################################
+2017-03-03 09:53:30,680  - µÇÂ¼²âÊÔ.py : WARNING  
+2017-03-03 09:53:30,681  - µÇÂ¼²âÊÔ.py : INFO  Begin time : 2017-03-03  09:53:30  Friday
+2017-03-03 09:53:41,381  - µÇÂ¼²âÊÔ.py : INFO  Opening browser 'Firefox' to base url : http://192.168.1.206
+2017-03-03 09:53:42,395  - µÇÂ¼²âÊÔ.py : INFO  Current Operation : Login Test Error Empty with username
+2017-03-03 09:53:46,487  - µÇÂ¼²âÊÔ.py : INFO  username : '' password : 'iis' ÓÃ»§Ãû»òÃÜÂë²»ÄÜÎª¿Õ 
+2017-03-03 09:53:46,496  - µÇÂ¼²âÊÔ.py : INFO  testErrorEmpty Test OK
+2017-03-03 09:53:47,059  - µÇÂ¼²âÊÔ.py : INFO  End time : 2017-03-03  09:53:47  Friday 
+2017-03-03 09:53:47,061  - µÇÂ¼²âÊÔ.py : WARNING  ######################################################################
+2017-03-03 09:53:47,061  - µÇÂ¼²âÊÔ.py : WARNING  
+2017-03-03 09:53:47,061  - µÇÂ¼²âÊÔ.py : INFO  Begin time : 2017-03-03  09:53:47  Friday
+2017-03-03 09:53:56,496  - µÇÂ¼²âÊÔ.py : INFO  Opening browser 'Firefox' to base url : http://192.168.1.206
+2017-03-03 09:53:57,407  - µÇÂ¼²âÊÔ.py : INFO  Current Operation : Login Test Error False
+2017-03-03 09:54:01,775  - µÇÂ¼²âÊÔ.py : INFO  username : 'Rfid' password : 'iis' ÓÃ»§Ãû»òÕßÃÜÂë´íÎó£¬ÇëÖØĞÂÊäÈë£¡ 
+2017-03-03 09:54:01,776  - µÇÂ¼²âÊÔ.py : INFO  testErrorFalse Test OK
+2017-03-03 09:54:05,059  - µÇÂ¼²âÊÔ.py : INFO  username : '123' password : '456' ÓÃ»§Ãû»òÕßÃÜÂë´íÎó£¬ÇëÖØĞÂÊäÈë£¡ 
+2017-03-03 09:54:05,059  - µÇÂ¼²âÊÔ.py : INFO  testErrorFalse Test OK
+2017-03-03 09:54:08,302  - µÇÂ¼²âÊÔ.py : INFO  username : 'rfid' password : 'Iis' ÓÃ»§Ãû»òÕßÃÜÂë´íÎó£¬ÇëÖØĞÂÊäÈë£¡ 
+2017-03-03 09:54:08,302  - µÇÂ¼²âÊÔ.py : INFO  testErrorFalse Test OK
+2017-03-03 09:54:11,561  - µÇÂ¼²âÊÔ.py : INFO  username : '²âÊÔ' password : 'iis' ÓÃ»§Ãû»òÕßÃÜÂë´íÎó£¬ÇëÖØĞÂÊäÈë£¡ 
+2017-03-03 09:54:11,562  - µÇÂ¼²âÊÔ.py : INFO  testErrorFalse Test OK
+2017-03-03 09:54:12,084  - µÇÂ¼²âÊÔ.py : INFO  End time : 2017-03-03  09:54:12  Friday 
+2017-03-03 09:54:12,085  - µÇÂ¼²âÊÔ.py : WARNING  ######################################################################
+2017-03-03 09:54:12,085  - µÇÂ¼²âÊÔ.py : WARNING  
+2017-03-03 09:54:12,085  - µÇÂ¼²âÊÔ.py : INFO  Begin time : 2017-03-03  09:54:12  Friday
+2017-03-03 09:54:19,665  - µÇÂ¼²âÊÔ.py : INFO  Opening browser 'Firefox' to base url : http://192.168.1.206
+2017-03-03 09:54:20,796  - µÇÂ¼²âÊÔ.py : INFO  Current Operation : Login Test Right Normal
+2017-03-03 09:54:25,267  - µÇÂ¼²âÊÔ.py : INFO  username : 'rfid' password : 'iis' 
+2017-03-03 09:54:25,290  - µÇÂ¼²âÊÔ.py : INFO  testNormalLogin Test OK
+2017-03-03 09:54:25,884  - µÇÂ¼²âÊÔ.py : INFO  End time : 2017-03-03  09:54:25  Friday
+2017-03-03 09:54:25,885  - µÇÂ¼²âÊÔ.py : WARNING  ######################################################################
+2017-03-03 09:54:25,885  - µÇÂ¼²âÊÔ.py : WARNING  
+2017-03-03 09:54:25,885  - µÇÂ¼²âÊÔ.py : INFO  Begin time : 2017-03-03  09:54:25  Friday
+2017-03-03 09:54:34,223  - µÇÂ¼²âÊÔ.py : INFO  Opening browser 'Firefox' to base url : http://192.168.1.206
+2017-03-03 09:54:35,322  - µÇÂ¼²âÊÔ.py : INFO  Current Operation : Login Test Right Super
+2017-03-03 09:54:40,301  - µÇÂ¼²âÊÔ.py : INFO  username : 'superrfid' password : 'debugiis' 
+2017-03-03 09:54:40,319  - µÇÂ¼²âÊÔ.py : INFO  testSuperLogin Test OK
+2017-03-03 09:54:40,858  - µÇÂ¼²âÊÔ.py : INFO  End time : 2017-03-03  09:54:40  Friday
+2017-03-03 09:54:40,858  - µÇÂ¼²âÊÔ.py : WARNING  ######################################################################
+2017-03-24 10:03:17,898  - JzTestRunner.py : INFO  The testcase number is : 2
+2017-03-24 10:03:17,903  - JzTestRunner.py : INFO  The testcase name is : __init__.py
+2017-03-24 10:03:17,903  - JzTestRunner.py : INFO  The testcase name is : µÇÂ¼²âÊÔ.py
+2017-03-24 10:03:18,311  - µÇÂ¼²âÊÔ.py : WARNING  
+2017-03-24 10:03:18,311  - µÇÂ¼²âÊÔ.py : INFO  Begin time : 2017-03-24  10:03:18  Friday
+2017-03-24 10:03:33,515  - µÇÂ¼²âÊÔ.py : INFO  Opening browser 'Firefox' to base url : http://192.168.1.202
+2017-03-24 10:03:35,778  - µÇÂ¼²âÊÔ.py : INFO  Current Operation : Login Test Error Empty with password
+2017-03-24 10:03:39,944  - µÇÂ¼²âÊÔ.py : INFO  username : 'iis' password : '' ÓÃ»§Ãû»òÃÜÂë²»ÄÜÎª¿Õ 
+2017-03-24 10:03:39,950  - µÇÂ¼²âÊÔ.py : INFO  testErrorEmpty Test OK
+2017-03-24 10:03:40,548  - µÇÂ¼²âÊÔ.py : INFO  End time : 2017-03-24  10:03:40  Friday 
+2017-03-24 10:03:40,548  - µÇÂ¼²âÊÔ.py : WARNING  ######################################################################
+2017-03-24 10:03:40,548  - µÇÂ¼²âÊÔ.py : WARNING  
+2017-03-24 10:03:40,548  - µÇÂ¼²âÊÔ.py : INFO  Begin time : 2017-03-24  10:03:40  Friday
+2017-03-24 10:03:49,200  - µÇÂ¼²âÊÔ.py : INFO  Opening browser 'Firefox' to base url : http://192.168.1.202
+2017-03-24 10:03:49,977  - µÇÂ¼²âÊÔ.py : INFO  Current Operation : Login Test Error Empty with username
+2017-03-24 10:03:53,875  - µÇÂ¼²âÊÔ.py : INFO  username : '' password : 'iis' ÓÃ»§Ãû»òÃÜÂë²»ÄÜÎª¿Õ 
+2017-03-24 10:03:53,877  - µÇÂ¼²âÊÔ.py : INFO  testErrorEmpty Test OK
+2017-03-24 10:03:54,469  - µÇÂ¼²âÊÔ.py : INFO  End time : 2017-03-24  10:03:54  Friday 
+2017-03-24 10:03:54,469  - µÇÂ¼²âÊÔ.py : WARNING  ######################################################################
+2017-03-24 10:03:54,470  - µÇÂ¼²âÊÔ.py : WARNING  
+2017-03-24 10:03:54,470  - µÇÂ¼²âÊÔ.py : INFO  Begin time : 2017-03-24  10:03:54  Friday
+2017-03-24 10:04:07,098  - µÇÂ¼²âÊÔ.py : INFO  Opening browser 'Firefox' to base url : http://192.168.1.202
+2017-03-24 10:04:07,901  - µÇÂ¼²âÊÔ.py : INFO  Current Operation : Login Test Error False
+2017-03-24 10:04:11,163  - µÇÂ¼²âÊÔ.py : INFO  username : 'Rfid' password : 'iis' ÓÃ»§Ãû»òÕßÃÜÂë´íÎó£¬ÇëÖØĞÂÊäÈë£¡ 
+2017-03-24 10:04:11,163  - µÇÂ¼²âÊÔ.py : INFO  testErrorFalse Test OK
+2017-03-24 10:04:14,444  - µÇÂ¼²âÊÔ.py : INFO  username : '123' password : '456' ÓÃ»§Ãû»òÕßÃÜÂë´íÎó£¬ÇëÖØĞÂÊäÈë£¡ 
+2017-03-24 10:04:14,444  - µÇÂ¼²âÊÔ.py : INFO  testErrorFalse Test OK
+2017-03-24 10:04:17,681  - µÇÂ¼²âÊÔ.py : INFO  username : 'rfid' password : 'Iis' ÓÃ»§Ãû»òÕßÃÜÂë´íÎó£¬ÇëÖØĞÂÊäÈë£¡ 
+2017-03-24 10:04:17,681  - µÇÂ¼²âÊÔ.py : INFO  testErrorFalse Test OK
+2017-03-24 10:04:20,994  - µÇÂ¼²âÊÔ.py : INFO  username : '²âÊÔ' password : 'iis' ÓÃ»§Ãû»òÕßÃÜÂë´íÎó£¬ÇëÖØĞÂÊäÈë£¡ 
+2017-03-24 10:04:20,994  - µÇÂ¼²âÊÔ.py : INFO  testErrorFalse Test OK
+2017-03-24 10:04:21,611  - µÇÂ¼²âÊÔ.py : INFO  End time : 2017-03-24  10:04:21  Friday 
+2017-03-24 10:04:21,611  - µÇÂ¼²âÊÔ.py : WARNING  ######################################################################
+2017-03-24 10:04:21,615  - µÇÂ¼²âÊÔ.py : WARNING  
+2017-03-24 10:04:21,618  - µÇÂ¼²âÊÔ.py : INFO  Begin time : 2017-03-24  10:04:21  Friday
+2017-03-24 10:04:29,746  - µÇÂ¼²âÊÔ.py : INFO  Opening browser 'Firefox' to base url : http://192.168.1.202
+2017-03-24 10:04:30,828  - µÇÂ¼²âÊÔ.py : INFO  Current Operation : Login Test Right Normal
+2017-03-24 10:04:34,223  - µÇÂ¼²âÊÔ.py : INFO  username : 'rfid' password : 'iis' 
+2017-03-24 10:04:34,240  - µÇÂ¼²âÊÔ.py : INFO  testNormalLogin Test OK
+2017-03-24 10:04:34,921  - µÇÂ¼²âÊÔ.py : INFO  End time : 2017-03-24  10:04:34  Friday
+2017-03-24 10:04:34,921  - µÇÂ¼²âÊÔ.py : WARNING  ######################################################################
+2017-03-24 10:04:34,921  - µÇÂ¼²âÊÔ.py : WARNING  
+2017-03-24 10:04:34,921  - µÇÂ¼²âÊÔ.py : INFO  Begin time : 2017-03-24  10:04:34  Friday
+2017-03-24 10:04:42,799  - µÇÂ¼²âÊÔ.py : INFO  Opening browser 'Firefox' to base url : http://192.168.1.202
+2017-03-24 10:04:43,826  - µÇÂ¼²âÊÔ.py : INFO  Current Operation : Login Test Right Super
+2017-03-24 10:04:47,717  - µÇÂ¼²âÊÔ.py : INFO  username : 'superrfid' password : 'debugiis' 
+2017-03-24 10:04:47,743  - µÇÂ¼²âÊÔ.py : INFO  testSuperLogin Test OK
+2017-03-24 10:04:48,315  - µÇÂ¼²âÊÔ.py : INFO  End time : 2017-03-24  10:04:48  Friday
+2017-03-24 10:04:48,315  - µÇÂ¼²âÊÔ.py : WARNING  ######################################################################
+2017-03-24 10:10:28,651  - JzTestRunner.py : INFO  The testcase number is : 2
+2017-03-24 10:10:28,651  - JzTestRunner.py : INFO  The testcase name is : __init__.py
+2017-03-24 10:10:28,653  - JzTestRunner.py : INFO  The testcase name is : µÇÂ¼²âÊÔ.py
+2017-03-24 10:10:28,727  - µÇÂ¼²âÊÔ.py : WARNING  
+2017-03-24 10:10:28,727  - µÇÂ¼²âÊÔ.py : INFO  Begin time : 2017-03-24  10:10:28  Friday
